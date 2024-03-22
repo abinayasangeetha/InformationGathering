@@ -1,4 +1,4 @@
-# InformationGathering
+# EX-2 InformationGathering
 Information Gathering Techiques
 
 # To perform information gathering techniques
@@ -22,7 +22,19 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
+## WHOIS:
+ 
+## IP2LOCATION:
 
+## PING:
+
+## WEB ARCHIVE:
+
+## NMAP:
+
+## WHATWEB:
+
+## TRACEROUTE:
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
