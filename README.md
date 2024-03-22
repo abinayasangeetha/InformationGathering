@@ -41,8 +41,9 @@ REG NO: 212222230002
 ![e2](https://github.com/abinayasangeetha/InformationGathering/assets/119393675/6bb8384e-6319-4924-bb4e-18126fa3c60c)
 
 ## WHATWEB:
+![e7](https://github.com/abinayasangeetha/InformationGathering/assets/119393675/9280683e-1349-4a60-91b2-896f97459c73)
 
-![e6](https://github.com/abinayasangeetha/InformationGathering/assets/119393675/0b04ac3e-7702-4ae4-8a90-6d99c04e2ef7)
+
 
 ## TRACEROUTE:
 
